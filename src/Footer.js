@@ -4,7 +4,11 @@ import "./Footer.css";
 export default function Footer() {
   return (
     <div className="Footer">
-      <a href="https://github.com/nycxcristie/weather-react-hw-wk4">
+      <a
+        href="https://github.com/nycxcristie/weather-react-hw-wk4"
+        target="_blank"
+        rel="noreferrer"
+      >
         Open-source code
       </a>
       <span> by: Cristina Isaacson</span>
