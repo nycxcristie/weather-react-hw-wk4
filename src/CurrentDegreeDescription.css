@@ -1,0 +1,23 @@
+.CurrentDegreeDescription {
+  color: rgb(108, 108, 108);
+}
+
+.CurrentDegreeDescription .WeatherIcon {
+  font-size: 70px;
+}
+
+.CurrentDegreeDescription .DegreeValue {
+  font-size: 60px;
+  padding: 0 0 0 0;
+}
+
+.CurrentDegreeDescription .Tempscale {
+  font-size: 25px;
+  vertical-align: super;
+}
+.CurrentDegreeDescription .Description {
+  text-transform: capitalize;
+  font-size: 16px;
+  padding: 0 0 0 0;
+  position: relative;
+}

@@ -1,0 +1,16 @@
+.DateTimeLocation {
+  text-align: left;
+}
+
+.DateTimeLocation span {
+  font-size: 16px;
+}
+
+.DateTimeLocation h1 {
+  font-size: 65px;
+  color: rgb(108, 108, 108);
+  background-color: rgb(250, 232, 30);
+  margin: 0 50px 0 0;
+  border-radius: 0px 50px 50px 0px;
+  padding: 0 12px 0 12px;
+}

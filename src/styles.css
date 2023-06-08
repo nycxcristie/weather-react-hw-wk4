@@ -1,0 +1,7 @@
+.container {
+  display: block;
+  margin-left: 15px;
+  text-align: left;
+  max-width: 600px;
+  font-family: Work Sans, sans-serif;
+}

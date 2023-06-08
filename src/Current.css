@@ -1,0 +1,9 @@
+.Current p {
+  color: gray;
+  margin: 0px;
+  text-align: left;
+}
+.Current .Container {
+  padding: 25px;
+  margin: 25px;
+}

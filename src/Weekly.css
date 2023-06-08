@@ -1,0 +1,53 @@
+.Weekly {
+  color: rgb(108, 108, 108);
+}
+
+.Weekly .WeeklyAbbr {
+  text-align: center;
+  font-size: 35px;
+  margin: 50px 30px 0 30px;
+  background-color: rgb(164, 212, 92);
+  border-radius: 80px 80px 0 0;
+  padding: 80px 0 0 0;
+  margin-bottom: 0px;
+}
+
+.Weekly .CurrentDegreeDescription {
+  text-align: center;
+  font-size: 16px;
+  margin: 0px 30px 0 30px;
+  background-color: rgb(164, 212, 92);
+  padding: 0 0 10px 0;
+}
+
+.Weekly .HiLow {
+  text-align: center;
+  font-size: 16px;
+  margin: 0px 30px 0 30px;
+  background-color: rgb(164, 212, 92);
+  padding: 0 0 10px 0;
+}
+
+.box {
+  display: flex;
+}
+
+.one {
+  flex: 1 1 auto;
+}
+
+.two {
+  flex: 1 1 auto;
+}
+
+.three {
+  flex: 1 1 auto;
+}
+
+.four {
+  flex: 1 1 auto;
+}
+
+.five {
+  flex: 1 1 auto;
+}
