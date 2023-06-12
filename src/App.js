@@ -1,4 +1,5 @@
 import "./App.css";
+import React from "react";
 import Form from "./Form";
 import Tempnow from "./Tempnow.js";
 import Current from "./Current";

@@ -6,6 +6,7 @@ export default function Footer() {
     <div className="Footer">
       <a
         href="https://github.com/nycxcristie/weather-react-hw-wk4"
+        // eslint-disable-next-line
         target="_blank"
         rel="noreferrer"
       >
